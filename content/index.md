@@ -1,35 +1,37 @@
+[16987294072707571700501063212212](https://github.com/github/docs/assets/149447023/990e4dae-bc10-490f-a5f3-399f29e219f3)[تحميل 16987294070757170050101063212212.jpg]()
+[index.md](https://github.com/github/docs/files/13212254/index.md)
 ---
-title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
-featuredLinks:
-  gettingStarted:
-    - /get-started/quickstart/set-up-git
-    - /authentication/connecting-to-github-with-ssh
-    - /repositories/creating-and-managing-repositories
-    - /get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-  popular:
-    - /pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
-    - /authentication
-    - /migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github
-    - /get-started/getting-started-with-git/managing-remote-repositories
-    - /pages
-redirect_from:
-  - /github
-  - /articles
-  - /common-issues-and-questions
-  - /troubleshooting-common-issues
-  - /early-access/github/enforcing-best-practices-with-github-policies
-  - /github/enforcing-best-practices-with-github-policies/index
-  - /early-access/github/enforcing-best-practices-with-github-policies/about-github-policies
-  - /github/enforcing-best-practices-with-github-policies/about-github-policies
-  - /early-access/github/enforcing-best-practices-with-github-policies/constraints
-  - /github/enforcing-best-practices-with-github-policies/constraints
-  - /early-access/github/enforcing-best-practices-with-github-policies/contexts
-  - /github/enforcing-best-practices-with-github-policies/contexts
-  - /early-access/github/enforcing-best-practices-with-github-policies/expressions
-  - /github/enforcing-best-practices-with-github-policies/expressions
-  - /early-access/github/enforcing-best-practices-with-github-policies/getting-started
-  - /early-access/github/enforcing-best-practices-with-github-policies/github-policies-vision
-  - /github/enforcing-best-practices-with-github-policies/github-policies-vision
+العنوان: '% البيانات المتغيرات.product.الاسم / { / / help Documentation'
+عرض لينكس:
+                             بدأ في:                              
+                              ـ بدء/الهدية/                                
+                               /التوثيق/الربط بين الجيتو -  - مع                                 
+                               المستودعات/المستودعات/المستودعات المتعلقة بإنشاء وإدارة                                 
+                              (ب) بدء/الكتابة على الجيتو/بدء مع الكتابة وتكوين على الجيتو/الكتابة الأساسية -  - الكتابة الأساسية - التكوين - الضريبي                                 
+                              شعبي:                                 
+                            طلبات سحب/طلبات سحب/التعاون مع سحب/اقتراح تغيير إلى العمل مع طلب سحب/طلبات سحب سحب/طلبات سحب سحب سحب                            
+  -                               التوثيق                               
+                              /الهجرة/رمز المصدر المستورد/استخدام - خط-command-إلى-استيراد/رمز-إلى-جيتو                                 
+                              ـ بدء/بدء العمل مع الجيت/الإدارة من بعد                                 
+ /صفحات - صفحات
+إعادة توجيه / من:
+  - /الجيتو (ب)
+  -                             /المواد                           
+  -                             /المسائل المشتركة - المسائل والمسائل                           
+  -                             /المسائل المشتركة بين المشاكل                           
+  -                              /الوصول المبكر/الجيتوب/أفضل الممارسات - السياسات المتعلقة بأفضل الممارسات مع الجيتو - السياسات                            
+  -                             /الجيتوب/إنفاذ أفضل الممارسات -  - السياسات/المؤشر                           
+  -                             /الوصول المبكر/الجيتوب/أفضل الممارسات - السياسات المتعلقة بأفضل-جيهوب/السياسات المتعلقة بالغيثوب                           
+  -                             /الجيthb/إنفاذ أفضل الممارسات مع الجيتو - السياسات/بشأن الجيتو - السياسات                           
+  -                             /الوصول المبكر/الجيتوب/أفضل الممارسات - السياسات/القيود المتعلقة بأفضل الممارسات - الجيتوب - السياسات/القيود                           
+  -                             /الجيتوب/إنفاذ أفضل الممارسات - السياسات/القيود                           
+  -                   /الوصول المبكر/الجيتوب/أفضل الممارسات -  - السياسات/السياقات                 
+  -                   /الجيتوب/إنفاذ أفضل الممارسات - السياسات/السياقات                 
+  -                   /الوصول المبكر/الجيتوب/أفضل الممارسات -  - السياسات/التعبير                 
+  -                   /الجيتوب/إنفاذ أفضل الممارسات - السياسات/التعبير                 
+  -                   /الوصول المبكر/الجيتوب/أفضل الممارسات -  - السياسات/بدء العمل                 
+  -                   /الوصول المبكر/الجيتوب/أفضل الممارسات -  - السياسات/الجيتوب - السياسات                 
+  -                   /الجيthb/إنفاذ أفضل الممارسات -  - السياسات/الجيتوب -  - رؤية السياسات                 
   - /early-access/github/enforcing-best-practices-with-github-policies/onboarding
   - /github/enforcing-best-practices-with-github-policies/onboarding
   - /early-access/github/enforcing-best-practices-with-github-policies/overview
@@ -64,80 +66,81 @@ children:
   - copilot
   - codespaces
   - migrations
-  - packages
-  - search-github
-  - apps
-  - webhooks
-  - rest
-  - graphql
-  - github-cli
-  - discussions
-  - sponsors
-  - communities
-  - pages
-  - education
-  - desktop
-  - early-access
-  - support
-  - video-transcripts
-  - contributing
-childGroups:
-  - name: Get started
-    octicon: RocketIcon
-    children:
-      - get-started
-      - migrations
-      - account-and-profile
-      - authentication
-      - billing
-      - site-policy
-  - name: Collaborative coding
-    octicon: CommentDiscussionIcon
-    children:
-      - codespaces
-      - repositories
-      - pull-requests
-      - discussions
-      - copilot
-  - name: CI/CD and DevOps
-    octicon: GearIcon
-    children:
-      - actions
-      - packages
-      - pages
-  - name: Security
-    octicon: ShieldLockIcon
-    children:
-      - code-security
-      - code-security/supply-chain-security
-      - code-security/security-advisories
-      - code-security/dependabot
-      - code-security/code-scanning
-      - code-security/secret-scanning
-  - name: Client apps
-    octicon: DeviceMobileIcon
-    children:
-      - github-cli
-      - desktop
-  - name: Project management
-    octicon: ProjectIcon
-    children:
-      - issues
-      - issues/planning-and-tracking-with-projects
-      - issues/managing-your-tasks-with-tasklists
-      - search-github
-  - name: Developers
-    octicon: CodeSquareIcon
-    children:
-      - apps
-      - rest
-      - graphql
-      - webhooks
-  - name: Enterprise and Teams
-    octicon: OrganizationIcon
-    children:
-      - organizations
-      - admin
+  - الطرود
+  - البحث - غيتو (ب)
+  - التطبيقات
+  - التواصل الشبكي
+  - الراحة
+  - (جراف كال)
+  - (جيتوب - cli)
+  -  المناقشات
+  -   مقدمو مشروع القرار 
+  -   المجتمعات المحلية 
+  -   الصفحات 
+  -   التعليم 
+  -    سطح المكتب  
+  -    الوصول المبكر  
+  -    الدعم  
+  -     محاضرات الفيديو   
+  -     المساهمة   
+مجموعات الأطفال:
+  -     ابدأ   
+ ocketIzon 
+                           الأطفال:                               
+[Uploading مغنى 46 - حي الصحافة.pdf…]()
+                              -     بدأ                            
+                              -     الهجرة                            
+                              -     الحساب والمقص                            
+                              -     التوثيق                            
+                              -     مشروع القانون                            
+                             -     سياسة الموقع                          
+  -        الاسم: الترميز التعاوني      
+                             octicon: تعليق مناقشة آيكون octicon: تعليق مناقشة آيكون                             
+         الأطفال:    الأطفال:     
+       -      ألف - الكوادس  -   ألف - الكوادس    
+       -      المستودعات  -   المستودعات    
+       -      طلبات سحب  -   طلبات سحب    
+       -      المناقشات  -   المناقشات    
+       -      التردد  -   التردد    
+  - الاسم: CI/CD وDevOPs
+ octicون: GearIkun 
+                             الأطفال:                             
+      -        الإجراءات      
+      -        الطرود      
+      -        الصفحات      
+  -        الاسم: الأمن      
+         أوتيكون: شيلد لوكليكسون أوتيكون: شيلد لوكليكسون         
+         الأطفال:    الأطفال:     
+       -      أمن الشفرة  -   أمن الشفرة    
+       -      أمن المدونة/سلسلة الإمداد  -   أمن المدونة/سلسلة الإمداد    
+       -      الأمن الرمزي/المستشارات الأمنية  -   الأمن الرمزي/المستشارات الأمنية    
+       -      الأمن الرمزي/النظام  -   الأمن الرمزي/النظام    
+       -      الأمن الرمز/مسح الشفرة  -   الأمن الرمز/مسح الشفرة    
+       -      الأمن الرمز/المسح السري  -   الأمن الرمز/المسح السري    
+  -        الاسم: تطبيقات العملاء      
+ octicون: DeviceMobile Icon 
+                             الأطفال:                                  
+ (جيتوب - cli) 
+                               -  سطح المكتب                         
+  -       الاسم: إدارة المشاريع     
+        أوكيكون: التوقع          
+          الأطفال:     الأطفال:     
+       -      القضايا  -   القضايا   القضايا  -   القضايا    
+       -                          المسائل/التخطيط والتتبع مع المشاريع  -   المسائل/التخطيط والتتبع مع المشاريع   المسائل/التخطيط والتتبع مع المشاريع  -   المسائل/التخطيط والتتبع مع المشاريع                        
+       -                          المسائل/إدارة المهام مع المهام الخاصة بك  -   المسائل/إدارة المهام مع المهام الخاصة بك   المسائل/إدارة المهام مع المهام الخاصة بك  -   المسائل/إدارة المهام مع المهام الخاصة بك                        
+       -      البحث - غيتو (ب)  -   البحث - غيتو (ب)   البحث - غيتو (ب)  -   البحث - غيتو (ب)    
+  -       الاسم: المطورون     
+ octicon: CodeSquardorChor Econ 
+                            الأطفال:                                 
+                              -   التطبيقات                           
+                              -  الراحة                          
+                              -  (جراف كال)                          
+                              -  التواصل الشبكي                        
+  -      الاسم: المؤسسة والأفرقة    
+        أوكتيكون: أيقون منظمة          
+          الأطفال:     الأطفال:     
+       -      المنظمات  -   المنظمات   المنظمات  -   المنظمات    
+ - (إدمان) - (إدمان)
   - name: Community
     octicon: GlobeIcon
     children:
